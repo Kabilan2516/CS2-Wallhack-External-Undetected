@@ -1,0 +1,5 @@
+pymem
+requests
+pynput
+beautifulsoup4
+numpy
